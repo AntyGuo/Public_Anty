@@ -1,0 +1,5 @@
+train: /kaggle/input/mission-impassable/train/images  # Path to your training images
+val: /kaggle/input/mission-impassable/val/images      # Path to your validation images
+
+nc: 1  # Number of classes (e.g., 1 class for 'gate')
+names: ['gate']  # List of class names
