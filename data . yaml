@@ -1,0 +1,5 @@
+train: /kaggle/working/train/images  # Path to training images
+val: /kaggle/working/val/images      # Path to validation images
+
+nc: 1  # Number of classes (e.g., 'gates')
+names: ['gate']  # Name of the class
